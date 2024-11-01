@@ -1,1 +1,1 @@
-# Benchmarking-LLMs-for-Market-Research
+# Benchmarking LLMs for Market Research
